@@ -1,0 +1,1 @@
+/* First exercise using JS */
